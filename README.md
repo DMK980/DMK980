@@ -1,6 +1,6 @@
 ## Hi, My name is Derrick 
 
-Currently a final year student studying Data Science and Analytics looking for remote work. I love traveling, playing football in my spare time and have a 
+Currently a final year student studying Data Science and Analytics. I love traveling, playing football in my spare time and have a 
 developing interest in the financial world of trading. 
 
 ### Skills 
