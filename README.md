@@ -1,6 +1,6 @@
 ## Hi, My name is Derrick 
 
-Currently a final year student studying Data Science and Analytics. I love traveling, playing football in my spare time and have a 
+A Data Science and Analytics Graduate. I love traveling, playing football in my spare time and have a 
 developing interest in the financial world of trading. 
 
 ### Skills 
@@ -8,5 +8,6 @@ developing interest in the financial world of trading.
 - Statistics & Probability 
 - Excel (e.g., Dashboard creation)
 - Databases (e.g., Information retrieval, normalization)
+- R programming 
 
 I work well with people, i'm well rounded, well traveled and appreciate other peoples cultures and differences. 
