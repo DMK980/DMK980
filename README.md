@@ -1,13 +1,3 @@
 ## Hi, My name is Derrick 
 
-A Data Science and Analytics Graduate. I love traveling, playing football in my spare time and have a 
-developing interest in the financial world of trading. 
 
-### Skills 
-- Python programming (e.g., Numpy, Pandas, Matplotlib, Plotly, Scikit-learn, nltk)
-- Statistics & Probability 
-- Excel (e.g., Dashboard creation)
-- Databases (e.g., Information retrieval, normalization)
-- R programming 
-
-I work well with people, i'm well rounded, well traveled and appreciate other peoples cultures and differences. 
