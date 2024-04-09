@@ -1,3 +1,7 @@
-## Hi, My name is Derrick 
+# Hi, My name is Derrick 
+
+## DEVELOPER / ANALYST
+
+### TECH STACK: HTML | CSS | JAVASCRIPT | REACT | PYTHON
 
 
