@@ -1,5 +1,11 @@
 <h1>Hi 👋, I'm Derrick </h1>
-<p>A passionate software engineer specializing in full-stack development. I build scalable and efficient web applications using Vue/React, Laravel/Express, and PostgreSQL. Passionate about backend optimization, security, and AI integration, I love solving complex problems and crafting seamless user experiences.  🚀 Currently working on AI-powered and 3D visualization projects to push the limits of innovation.</p>
+<p>I'm a software developer passionate about building clean, practical, and user-focused applications. I enjoy working across the full development lifecycle, exploring new technologies, and solving real-world problems through code.
+
+Tech Stack: JavaScript, TypeScript, React, Node.js, Python, SQL
+
+🌱 Always learning, always building.
+
+📫 Feel free to explore my repositories or connect with me!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
