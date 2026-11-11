@@ -1,11 +1,17 @@
 <h1>Hi 👋, I'm Derrick </h1>
-<p>I'm a software developer passionate about building clean, practical, and user-focused applications. I enjoy working across the full development lifecycle, exploring new technologies, and solving real-world problems through code.
+<p># Hi there 👋
 
-Tech Stack: JavaScript, TypeScript, React, Node.js, Python, SQL
+I'm a **Data Modeler** in the insurance industry with a background in full-stack development, and I'm growing into **AI engineering**. I design the data foundations that make analytics and AI reliable, and I enjoy building practical, user-focused applications on top of them.
+
+🔭 Currently designing data models in **erwin** and building on **Snowflake**
+🤖 Exploring AI engineering: LLMs, model evaluation, and AI built on solid data
+🧪 Building at [Synos Labs](https://github.com/synoslabs), an applied AI research lab for East Africa
+
+**Data:** Data Modeling, Dimensional Modeling, erwin, Snowflake, SQL
+**Languages & Frameworks:** Python, TypeScript, JavaScript, React, Next.js, Node.js
 
 🌱 Always learning, always building.
-
-📫 Feel free to explore my repositories or connect with me!</p>
+📫 Explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
