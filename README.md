@@ -37,4 +37,9 @@ I'm a **Data Modeler** in the insurance industry with a background in full-stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://i
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## ⚡️ Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-kaaria/)
+[![Synos Labs](https://img.shields.io/badge/Synos_Labs-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/synoslabs)
