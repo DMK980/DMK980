@@ -1,41 +1,40 @@
-<h1>Hi 👋, I'm Derrick </h1>
-<p># Hi there 👋
+# Hi 👋, I'm Derrick
 
 I'm a **Data Modeler** in the insurance industry with a background in full-stack development, and I'm growing into **AI engineering**. I design the data foundations that make analytics and AI reliable, and I enjoy building practical, user-focused applications on top of them.
 
 🔭 Currently designing data models in **erwin** and building on **Snowflake**
+
 🤖 Exploring AI engineering: LLMs, model evaluation, and AI built on solid data
+
 🧪 Building at [Synos Labs](https://github.com/synoslabs), an applied AI research lab for East Africa
 
-**Data:** Data Modeling, Dimensional Modeling, erwin, Snowflake, SQL
-**Languages & Frameworks:** Python, TypeScript, JavaScript, React, Next.js, Node.js
-
 🌱 Always learning, always building.
-📫 Explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<!-- <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a> -->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<!-- <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a> -->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-<!-- <a target="_blank" href="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="42" height="42" /></a> -->
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/derrick-kaaria/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DMK980&show_icons=true&locale=en" alt="DMK980" /></p> -->
+
+## 🗄️ Data Modeling & Engineering
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![erwin](https://img.shields.io/badge/erwin_Data_Modeler-0A66C2?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🤖 AI & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+## 🛠️ Engineering & Tools
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://i
